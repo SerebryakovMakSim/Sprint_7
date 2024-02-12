@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.couriers;
+package ru.yandex.praktikum.couriers; // некоторое изенение 2
 import ru.yandex.praktikum.service.Service;
 import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;

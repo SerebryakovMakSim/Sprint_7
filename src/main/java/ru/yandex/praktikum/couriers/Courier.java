@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.couriers;
+package ru.yandex.praktikum.couriers; //некоторое изменение
 
 public class Courier {
     private String id;
