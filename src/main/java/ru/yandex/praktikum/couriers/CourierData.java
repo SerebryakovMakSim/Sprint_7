@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.couriers;
+package ru.yandex.praktikum.couriers; // некоторое изменение 3
 import org.apache.commons.lang3.RandomStringUtils;
 
 public class CourierData {

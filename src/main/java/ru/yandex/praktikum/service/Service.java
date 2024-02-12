@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.service;
+package ru.yandex.praktikum.service; // некоторое изменение 6
 
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;

@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.orders;
+package ru.yandex.praktikum.orders; // некоторое изменение 10
 
 import io.qameta.allure.Step;
 import io.restassured.RestAssured;

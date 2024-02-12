@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.couriers;
+package ru.yandex.praktikum.couriers; // некоторое изменение 7
 
 import ru.yandex.praktikum.service.Service;
 
